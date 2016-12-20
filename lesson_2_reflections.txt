@@ -1,2 +1,5 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: I need to run git init on a folder.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: You can use it to choose witch files you want to commit together and if you want to leave a file for it's own commit.
