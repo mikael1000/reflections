@@ -12,3 +12,6 @@ A: When you want to make another version of the application it's a good idea to 
 
 Q: How do the diagrams help you visualize the branch structure?
 A: You get the full overwiev in a easy to look at image.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: We merge changes from both branches together. We represent it the way we do to have an easy overview??
