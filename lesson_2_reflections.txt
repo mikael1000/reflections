@@ -15,3 +15,6 @@ A: You get the full overwiev in a easy to look at image.
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: We merge changes from both branches together. We represent it the way we do to have an easy overview??
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Git can't really know what you want to commit when there is a conflict. But when there is no conflict automatic is the way. Tjohoo!
