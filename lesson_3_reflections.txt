@@ -3,3 +3,8 @@ A: When I develop open source, want to share what I do or just want to show off 
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: If you are working on something that isn't ready (or you don't want to show).
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Forks is when I want to make my own verion of someones else project or "make it better" so I can propose an master update.
+   The clone is when I don't have anything on my computer I start with a clone. Branches is when I want to experiment and try
+   a new function.
