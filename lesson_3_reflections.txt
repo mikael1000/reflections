@@ -11,3 +11,6 @@ A: Forks is when I want to make my own verion of someones else project or "make 
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: If you want to work where you don't have internet access.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Before, many years ago me and my friends talked over the phone and we only had premission to change in files we agread on and only on person in one file. If one had an idea he simply made a copy of the project and tried out his idea and showed it to us (in school) and if we liked it the one with the master had to cut and paste code into the original project. Later we worked with SVN and Visual Studio.
