@@ -8,3 +8,6 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 A: Forks is when I want to make my own verion of someones else project or "make it better" so I can propose an master update.
    The clone is when I don't have anything on my computer I start with a clone. Branches is when I want to experiment and try
    a new function.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: If you want to work where you don't have internet access.
